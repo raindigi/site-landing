@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "@firebase/app": "^0.3.7",
-    "@firebase/firestore": "^1.0.0",
+    "@firebase/firestore": "^2.0.1",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "firebase": "^5.8.0",
-    "firebase-admin": "~6.0.0",
+    "firebase": "^8.0.1",
+    "firebase-admin": "~9.4.2",
     "firebase-functions": "^2.1.0"
   },
   "devDependencies": {
