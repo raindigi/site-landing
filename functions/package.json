@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@firebase/app": "^0.3.7",
-    "@firebase/firestore": "^1.0.0",
+    "@firebase/firestore": "^3.4.4",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "firebase": "^5.8.0",
